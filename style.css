@@ -1,0 +1,270 @@
+
+
+html, body{
+	font-family: 'Open sans' 
+	margin: 0;
+
+}
+
+
+.wrapper{
+	width: 1140px;
+	max-width: 90%;
+	margin:0 auto;
+}
+
+h1,  h3, h4, h5, h6{
+	font-weight: 300;
+}
+
+#top_header{
+	padding: 1.5rem 1rem 1.5rem 0rem;
+}
+.logo1{
+	    float: left;
+		text-transform: uppercase;
+		font-size: 1.15em;
+		font-weight: 700;
+		
+}
+span{
+			font-weight: 300;
+			color:#FA05C9;
+		}
+#main_nav{
+	float: right;
+	font-size: .9em;
+	padding-top: 1em;
+
+
+}
+a{
+	color:##ce069c;
+	text-decoration: none;
+	margin-left:1em;
+}
+a:hover { 
+    background-color: #FA0F2A;
+    padding: .75rem;
+    text-decoration: none;
+
+
+}
+#banner{
+	background: url(38004374-deadpool-wallpaper.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	width: 100%;
+	padding: 6.5rem 0;
+}
+#banner_content_wrapper{
+	width: 900px;
+	max-width: 90%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color:#ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+#poster{
+	width: 275px;
+	position: relative;
+	float: left;
+}
+.featured_image{
+	width:100%;
+	max-width: 100%;
+	border-radius: .5rem;
+	-webkit-box-shadow: 0px 0px 76px 0px rgba(0, 0, 0, 0.47);
+	-moz-box-shadow: 0px 0px 76px 0px rgba(0, 0, 0, 0.47);
+	box-shadow: 0px 0px 76px 0px rgba(0, 0, 0, 0.47);
+
+}
+.play_button{
+	position: absolute;
+	width: 80px;
+	left: 50%;
+	top: 64%;
+	margin: -40px 0 0 -40px;
+
+}
+
+#content{
+	float:left;
+	width: 500px;
+	margin-left: 100px;
+
+}
+
+.title{
+	font-size: 1.75em;
+ color: red !important;
+ font-weight: 700;
+}
+.titles{
+	color: white;
+}
+
+.description{
+	color: #bbbebf;
+	font-size:1em;
+	font-weight: 600;
+}
+
+span{
+	margin:0.5em;
+}
+
+	#news_letter{
+		clear: both;
+		padding: 5em 0;
+		text-align: center;
+		background: #2a2a2e
+	}
+.newsletter_inner{
+	width: 600px;
+	margin: 0 auto;
+
+}
+h2{
+	font size: 1.75em;
+	color: white !important;
+}
+.sign_up_form{
+	margin top: 3em
+
+}
+
+input[type="text"], input[type="email"] {
+	width: 48%;
+	margin: 0.5%;
+	height: 3.25em;
+	border:none;
+	outline: none;
+	border-radius: .3em;
+	background: #ffffff;
+	padding:.5em 1.25em;
+	font-size: .9em;
+	color:#000;
+}
+
+.button{
+	border:none;
+	outline: none;
+	border-radius: 2em;
+	padding: 1em 4.5em;
+	background: #E6202D;
+	color: white;
+	font-weight: 700;
+	font-size: .9em;
+	margin-top: 3em;
+}
+#main_footer{
+	padding: 2.5em 0;
+	text-align: center;
+}
+
+.logo{
+	text-transform: uppercase;
+	font-size: 1.25em;
+	font-weight: 700;
+
+}
+span{
+	font-weight: 300;
+	color: red;
+}
+.copyright{
+	color: grey;
+	font-size: .95em;
+	margin: 1em 0em 1em 0;
+}
+
+.links{
+	display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
